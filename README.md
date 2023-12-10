@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - Student informatyki na AGH
 - Obecnie pracuję nad projektem z narzędzi informatycznych
